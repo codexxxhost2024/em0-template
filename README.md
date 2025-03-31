@@ -1,7 +1,3 @@
-# Magnetar PWA
-
-A Progressive Web App for MLM and network marketing professionals.
-
 ## Pages Overview
 
 ### Authentication & Onboarding
